@@ -1,25 +1,8 @@
-ChatGPT
-
-https://thehackernews.com/2024/06/new-attack-technique-exploits-microsoft.html?m=1  make a threat advisory mail of it
-ChatGPT
-Memory updated
-Subject: Threat Advisory: New Attack Technique Exploits Microsoft 365 Vulnerabilities
-
-Date: [Insert Date]
-
-To: [Recipient's Name/Department]
-
-From: [Your Name/Your Department]
-
-Dear [Recipient's Name/Department],
-
-We are issuing this threat advisory to inform you of a newly discovered attack technique that exploits vulnerabilities in Microsoft 365, as reported by The Hacker News on June 26, 2024. This emerging threat poses significant risks to our organization's cybersecurity.
-
-Summary
-Researchers have identified a sophisticated attack method targeting Microsoft 365 services. The attack leverages specific vulnerabilities within the platform, enabling threat actors to gain unauthorized access to sensitive data and potentially execute malicious code.
-
-Key Details
-Attack Vector: The exploit targets Microsoft 365's cloud services, utilizing vulnerabilities that allow attackers to bypass security measures.
-Impact: Successful exploitation can result in data breaches, unauthorized access to email accounts, and potential loss of sensitive information.
-Affected Systems: All versions of Microsoft 365 are susceptible to this attack, particularly those with inadequate security configurations.
-Current Mitigations: Microsoft has been notified and is working on releasing patches to address these vulnerabilities. It is crucial to stay updated with the latest security patches and configurations.
+Service Desk JD • Excellent communication skills to attend/resolve client issues on calls/chat/mail. • Experience in using ticketing tools such as Service now, Remedy, control M will be added advantage • Experience of resolving queries utilizing voice skill on any of VPN, Drivers, O365, driver installations, Active directory • General support knowledge of Operating systems across various platforms and basic concepts of networking, cloud computing • Productivity applications like Microsoft office tools. • Open to work in 24*7 and work from office environment • Analytical problem solvers who will understand issues and to resolve customer issues • Problem solving skills and quick thinking to own & resolve customers’ issues independently, thoroughly & efficiently • Being proactive and show the utmost respect for customer’s time • Good time management, ensuring all contacts with customers add value • Work from Office Must to adhere and non-negotiables: - Excellent in communication - Need to work on US shift timings. - Need to complete specific and dedicated training programs set by the client. - 24*7 , flexible shifts - 100% WFO , no hybrid Preferred Qualifications: Any Graduate
+Work Experience:
+2 - 4 years of experience
+Educational Requirements:
+Bachelor Of Technology (Integrated)
+Technical and Professional Requirements:
+Preferred Skills:
+Customer Service->Technical - Service Desk->Voice->Chats->email Chats
