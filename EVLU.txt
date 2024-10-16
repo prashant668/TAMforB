@@ -24,7 +24,18 @@ These points will showcase your proactive approach, learning mindset, and techni
 
 
 
-
+Strengths:
+Adaptability: Quickly adjusted to managing vulnerabilities across 16,000 assets.
+Tool Proficiency: Gained solid experience with Rapid7 and Tenable for vulnerability tracking.
+Collaboration: Worked effectively with cross-functional teams to support remediation.
+Detail-Oriented: Ensured accurate vulnerability assessments and prioritization.
+Time Management: Balanced multiple tasks and met deadlines.
+Communication: Improved ability to explain technical details to non-technical stakeholders.
+Growth Areas:
+Deeper Analysis: Began developing skills in risk-based vulnerability prioritization.
+Risk Understanding: Enhanced your understanding of cybersecurity risk management.
+Continuous Learning: Actively learning about new threats and vulnerabilities.
+Problem-Solving: Strengthening your ability to resolve security issues with teams.
 
 
 
